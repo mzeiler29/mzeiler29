@@ -26,4 +26,4 @@
 - Strengths Finder Assessment Results
 
 <h2> Connect with me:</h2>
-LinkedIn: [Megan Zeiler](www.linkedin.com/in/megan-zeiler-886303195) 
+LinkedIn: www.linkedin.com/in/megan-zeiler-886303195
