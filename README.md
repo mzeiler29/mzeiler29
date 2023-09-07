@@ -12,7 +12,7 @@
   - 1
 <h2> SQL Projects: </h2>
 
-- 1
+- [Data Management - Applications]
 - 2
 
 <h2> Marketing Project: </h2>
