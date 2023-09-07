@@ -20,7 +20,7 @@
 - 1
 <h2> Grantsburg Fire Department Historical Name Project: </h2>
 
-- [Historical Name Project](https://github.com/mzeiler29/Historical-Name-Project)
+- [Historical Name Project](https://github.com/mzeiler29/Historical-Name-Project) 
 <h2> Other: </h2>
 
 - Strengths Finder Assessment Results
