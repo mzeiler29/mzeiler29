@@ -12,7 +12,7 @@
   - 1
 <h2> SQL Projects: </h2>
 
-- [Data Management - Applications]
+- [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
 - 2
 
 <h2> Marketing Project: </h2>
