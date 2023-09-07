@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Megan! </h1>
 
-<!--
-**mzeiler29/mzeiler29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Computer Science Coding Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Java</b>
+  - Java 1
+  - Java 2
+- <b>Python & Jupyter Notebook </b>
+  - 1
+  - 2
+- <b>C++</b>
+  - 1
+<h2> SQL Projects: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 1
+- 2
+
+<h2> Marketing Project: </h2>
+
+- 1
+<h2> Grantsburg Fire Department Historical Name Project: </h2>
+
+- 1
+<h2> Other: </h2>
+
+- Strengths Finder Assessment Results
+
+<h2> Connect with me:</h2>
+LinkedIn: Megan Zeiler
