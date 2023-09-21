@@ -14,9 +14,9 @@
 
 - [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
 - 2
-
+<h2> Artificial Intelligence: </h2>
+- [Artifical Intelligence Course Tasks]()
 <h2> Marketing Project: </h2>
-
 - 1
 <h2> Grantsburg Fire Department Historical Name Project: </h2>
 
