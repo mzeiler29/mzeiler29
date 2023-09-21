@@ -6,7 +6,7 @@
   - Java 1
   - Java 2
 - <b>Python & Jupyter Notebook </b>
-  - 1
+  - [Data Structures & Algorithms II - Python](https://github.com/mzeiler29/Data-Structures-and-Algorithms-II)
   - 2
 - <b>C++</b>
   - 1
