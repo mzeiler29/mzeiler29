@@ -4,7 +4,7 @@
 
 - <b>Java</b>
   - [Java 1 - Inventory Management System](https://github.com/mzeiler29/Java-1-Project)
-  - [Java 2 - Appointment Scheduling System]()
+  - [Java 2 - Appointment Scheduling System](https://github.com/mzeiler29/Java-2-Project)
 - <b>Python & Jupyter Notebook </b>
   - [Data Structures & Algorithms II - Python](https://github.com/mzeiler29/Data-Structures-and-Algorithms-II)
   - [Capstone Project with Jupyter Notebook](https://github.com/mzeiler29/Capstone-Project/tree/main)
