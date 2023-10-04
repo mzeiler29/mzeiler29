@@ -16,9 +16,7 @@
 - 2
 <h2> Artificial Intelligence: </h2>
 
-- <b>C+
-- 1
-- 2
+- [Artificial Intelligence Projects (3)](https://github.com/mzeiler29/Artificial-Intelligence)
 <h2> Marketing Project: </h2>
 
 - [Mayville State University - BUSN 352 - Marketing Plan](https://github.com/mzeiler29/Marketing-Plan)
