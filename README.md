@@ -3,8 +3,8 @@
 <h2> Computer Science Coding Projects:</h2>
 
 - <b>Java</b>
-  - Java 1
-  - Java 2
+  - [Java 1 - Inventory Management System]()
+  - [Java 2 - Appointment Scheduling System]()
 - <b>Python & Jupyter Notebook </b>
   - [Data Structures & Algorithms II - Python](https://github.com/mzeiler29/Data-Structures-and-Algorithms-II)
   - [Capstone Project with Jupyter Notebook](https://github.com/mzeiler29/Capstone-Project/tree/main)
