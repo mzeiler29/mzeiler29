@@ -15,9 +15,12 @@
 - [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
 - 2
 <h2> Artificial Intelligence: </h2>
-- [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
+
+- <b>Java</b>
+  - Java 1
+  - [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
 <h2> Marketing Project: </h2>
-- 1
+- 
 <h2> Grantsburg Fire Department Historical Name Project: </h2>
 
 - [Historical Name Project](https://github.com/mzeiler29/Historical-Name-Project) 
