@@ -16,10 +16,11 @@
 - 2
 <h2> Artificial Intelligence: </h2>
 
-- <b>Java</b>
-  - Java 1
-  - [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
+- <b>C+
+- 1
+- 2
 <h2> Marketing Project: </h2>
+
 - 
 <h2> Grantsburg Fire Department Historical Name Project: </h2>
 
