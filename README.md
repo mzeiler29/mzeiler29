@@ -9,7 +9,7 @@
   - [Data Structures & Algorithms II - Python](https://github.com/mzeiler29/Data-Structures-and-Algorithms-II)
   - [Capstone Project with Jupyter Notebook](https://github.com/mzeiler29/Capstone-Project/tree/main)
 - <b>C++</b>
-  - [Class Roster Project]
+  - [Class Roster Project](https://github.com/mzeiler29/Class-Roster-Project)
 <h2> SQL Projects: </h2>
 
 - [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
