@@ -21,7 +21,7 @@
 - 2
 <h2> Marketing Project: </h2>
 
-- 
+- [Mayville State University BUSN 352 Marketing Plan](https://github.com/mzeiler29/Marketing-Plan)
 <h2> Grantsburg Fire Department Historical Name Project: </h2>
 
 - [Historical Name Project](https://github.com/mzeiler29/Historical-Name-Project) 
