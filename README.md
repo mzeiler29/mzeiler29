@@ -7,7 +7,7 @@
   - Java 2
 - <b>Python & Jupyter Notebook </b>
   - [Data Structures & Algorithms II - Python](https://github.com/mzeiler29/Data-Structures-and-Algorithms-II)
-  - 2
+  - [Capstone Project with Jupyter Notebook](https://github.com/mzeiler29/Capstone-Project/tree/main)
 - <b>C++</b>
   - [Class Roster Project]
 <h2> SQL Projects: </h2>
