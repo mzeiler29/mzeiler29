@@ -25,7 +25,7 @@
 - [Historical Name Project](https://github.com/mzeiler29/Historical-Name-Project) 
 <h2> Other: </h2>
 
-- Strengths Finder Assessment Results
+- [Strengths Finder Assessment Results](https://github.com/mzeiler29/Strengths-Self-Assessment)
 
 <h2> Connect with me:</h2>
 LinkedIn: www.linkedin.com/in/megan-zeiler-886303195
