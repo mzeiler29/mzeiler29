@@ -13,7 +13,7 @@
 <h2> SQL Projects: </h2>
 
 - [Data Management - Applications](https://github.com/mzeiler29/Data-Management-Applications)
-- 2
+- [Advanced Data Management](https://github.com/mzeiler29/Advanced-Data-Management)
 <h2> Artificial Intelligence: </h2>
 
 - [Artificial Intelligence Projects](https://github.com/mzeiler29/Artificial-Intelligence)
